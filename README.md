@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 studen
 ------
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=nontawat&color=green)
 * ✉️  You can contact me at [nontawat.do@ku.th](mailto:nontawat.do@ku.th)
 
 <p align="left">
